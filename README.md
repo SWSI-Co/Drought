@@ -11,15 +11,16 @@ instruction and run priority:
 
 download and set codes as the following structure.
 
-\01_data_raw\
-     |___________ 01_All_ESM_Daily_Hist_data_1990-2014 (Percip, Tmax, Tmin) 
-     |___________ 03_Observed
+    
+     \01_data_raw\
+          01_All_ESM_Daily_Hist_data_1990-2014 (Percip, Tmax, Tmin)\
+          03_Observed\
+     \02_climate_change\
+          01_ETCCDI\
+          02_Spatial_Downscaling\
+          03_Bias_correction\
+     \03_drought\
      
-\02_climate_change\
-     |___________ 01_ETCCDI     
-     |___________ 02_Spatial_Downscaling  
-     |___________ 03_Bias_correction
-\03_drought\    
 
 Run codes by the priority (1_*, 2_*, ...) in each folder. 
 
