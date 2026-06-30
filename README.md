@@ -1,8 +1,4 @@
-Project Name: Bayesian Nonstationary Copula Modeling of Iran’s Drought Severity–Duration
-
-By Sustainable Water and Soil Innovators Co.
-
-
+# Bayesian Nonstationary Copula Modeling of Iran’s Drought Severity–Duration
 
 R codes for ESM selection based on ETCCDI, downscaling and bias correction, copula models, and stationary and nonstationary Drought Severity–Duration analysis.
 
