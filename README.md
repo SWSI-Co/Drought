@@ -1,13 +1,35 @@
 # SpatialDownscaling
 By Sustainable Water and Soil Innovators Co.
 
-MATLAB codes for spatial downscaling 
+Project Name: Bayesian Nonstationary Copula Modeling of Iran’s Drought Severity–Duration
+
+R codes for ESM selection based on ETCCDI, downscaling and bias correction, copula models, and stationary and nonstationary Drought Severity–Duration analysis.
+
+
+instruction and run priority:
+
+download and set codes as the following structure.
+
+\01_data_raw\
+     |___________ 01_All_ESM_Daily_Hist_data_1990-2014 (Percip, Tmax, Tmin)
+     |___________ 03_Observed
+
+\02_climate_change\
+     |___________ 01_ETCCDI     
+     |___________ 02_Spatial_Downscaling  
+     |___________ 03_Bias_correction
+\03_drought\    
+
+Run codes by the priority (1_*, 2_*, ...) in each folder. 
+
+
 
 These codes have been developed to efficiently process and analyze large-scale climate datasets, including CMIP6 outputs and other NetCDF (*.nc) files.
 
 Constructive feedback and suggestions for further improvement are very welcome. 
 
 For correspondence or comments, please contact me at h.yousefi.wrm@gmail.com.
+
 
 If you use these codes in your research or applications, please cite the following publications:
 
