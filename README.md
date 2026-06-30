@@ -12,9 +12,9 @@ instruction and run priority:
 download and set codes as the following structure.
 
 \01_data_raw\
-     |___________ 01_All_ESM_Daily_Hist_data_1990-2014 (Percip, Tmax, Tmin)
+     |___________ 01_All_ESM_Daily_Hist_data_1990-2014 (Percip, Tmax, Tmin) 
      |___________ 03_Observed
-
+     
 \02_climate_change\
      |___________ 01_ETCCDI     
      |___________ 02_Spatial_Downscaling  
